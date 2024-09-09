@@ -1,0 +1,56 @@
+[
+    {
+        "breedId": "B101",
+        "breedName": "Golden Retriever",
+        "description": "Friendly, intelligent, and devoted. Great family dog.",
+        "size": "Large",
+        "lifespan": "10-12 years",
+        "origin" : "Scotland",
+        "imageUrl" : "https://api-ninjas.com/images/dogs/golden_retriever.jpg"
+    },
+    {
+        "breedId": "B102",
+        "breedName": "Beagle",
+        "description": "Excellent hunting dog and loyal companion, it is also happy-go-lucky, funny, and'thanks to its pleading expression'cute.",
+        "size": "Medium",
+        "lifespan": "12-15 years",
+        "origin" : "Great Britain",
+        "imageUrl" : "https://api-ninjas.com/images/dogs/beagle.jpg"
+    },
+    {
+        "breedId": "B103",
+        "breedName": "Shih Tzu",
+        "description": "That face! Those big dark eyes looking up at you with that sweet expression! It's no surprise that Shih Tzu owners have been so delighted with this little 'Lion Dog' for a thousand years. Where Shih Tzu go, giggles and mischief follow.",
+        "size": "Small",
+        "lifespan": "10-16 years",
+        "origin" : "Tibet (China)",
+        "imageUrl" : "https://api-ninjas.com/images/dogs/shih_tzu.jpg"
+    },
+    {
+        "breedId": "B104",
+        "breedName": "German Shepherd",
+        "description": "German Shepherd Dogs are most known for their exceptional loyalty, bravery, and intelligence. They are by nature poised and unexcitable, with well-controlled nerves, making them excellent at performing a host of tasks and special services. They are often employed as police dogs because of their patience, quick-thinking, and keen observational skills.",
+        "size": "Large",
+        "lifespan": "9-13 years",
+        "origin" : "Germany",
+        "imageUrl" : "https://api-ninjas.com/images/dogs/german_shepherd_dog.jpg"
+    },
+    {
+        "breedId": "B105",
+        "breedName": "American Bulldog",
+        "description": "Despite his tough beginnings, the Bulldog is probably one of the gentlest breeds. He retains a strong protective instinct, though, and makes a wonderful watchdog. He is extremely affectionate with his family and craves their affection and attention. ",
+        "size": "Medium",
+        "lifespan": "10-15 years",
+        "origin" : "Great Britain",
+        "imageUrl" : "https://api-ninjas.com/images/dogs/american_bulldog.jpg"
+    },
+    {
+        "breedId": "B106",
+        "breedName": "Pug",
+        "description": "The Pug's motto is multum in parvo, a lot in a small package, which captures his essence. It is no wonder he has been adored by so many for so long—he is big enough to be all dog but small enough to go anywhere. He is an even-tempered, happy, affectionate, and jovial companion. ",
+        "size": "Small",
+        "lifespan": "12-15 years",
+        "origin" : "China",
+        "imageUrl" : "https://api-ninjas.com/images/dogs/pug.jpg"
+    }
+]
